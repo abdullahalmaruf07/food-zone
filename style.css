@@ -3,7 +3,7 @@
 }
 
 .top-name {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Archivo Black', sans-serif;
     text-align: center;
     background-image: linear-gradient(rgb(53, 135, 230), cyan);
     color: rgb(255, 246, 246);
@@ -112,6 +112,7 @@ body {
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-size: 100% 100%;
     padding-bottom: 30px;
+    padding-top: 10px;
 }
 
 #foot {
