@@ -2,7 +2,7 @@
     color: blue;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .top-name{
     text-align: center;
@@ -60,9 +60,13 @@ body{
 .last{
     border-radius: 25px;
 }
-.new{
-    font-size: 20px;
+.three-next{
+    width: 97%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 5px;
+    margin: 25px 25px;
 }
+
 #foot{
     background-color: gray;
     color: rgb(0, 0, 0);
@@ -74,4 +78,8 @@ body{
 }
 #zone{
     color: rgb(97, 19, 45);
+}
+.lasth{
+    height: 10%;
+    width: 35%;
 }
