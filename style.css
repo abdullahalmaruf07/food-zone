@@ -1,92 +1,137 @@
-.blue{
+.blue {
     color: blue;
 }
-.top-name{
+
+.top-name {
+    font-family: 'Nunito Sans', sans-serif;
     text-align: center;
     background-image: linear-gradient(rgb(53, 135, 230), cyan);
-    color: rgb(190, 27, 27);
+    color: rgb(255, 246, 246);
     margin-top: 0;
     margin-bottom: 0%;
 }
 
-body{
-    font-family: 'Bebas Neue', cursive;
-    font-family: 'Noto Serif', serif;
+.hhh {
+    font-size: 35px;
+    color: tomato;
+}
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
     text-align: justify;
     margin: 0%;
 }
-.flexible-container{
+
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
-.first{
+
+.first {
     height: 90%;
     width: 70%;
     margin-left: 20%;
 }
-.half{
+
+.half {
     width: 50%;
     padding-left: 7%;
-    
+
 }
-.link{
+
+#ppp {
+    width: 93%;
+    font-size: 22px;
+    line-height: 35px;
+}
+
+.link {
     text-decoration: none;
-    background-image: linear-gradient(cyan,blue);
-    color: white;
+    background-image: linear-gradient(to right, cyan, rgb(107, 107, 240));
+    color: rgb(0, 0, 0);
     padding: 10px 40px;
     border-radius: 10px;
     font-weight: 500;
 }
-.middle{
+
+.middle {
     background-image: url(images/shapes/Frame\ 57.jpg);
     margin-bottom: 0%;
 }
-.top-benner{
+
+.top-benner {
     background-image: url(images/shapes/Frame\ 58.jpg);
     margin-bottom: 0;
 }
-.recipie{
+
+.recipie {
     text-align: center;
     font-size: 25px;
 }
-.three{
+
+.three {
     width: 30%;
     padding: 3% 3% 3%;
     margin-left: 3%;
-    margin-right: 3% ;
+    margin-right: 3%;
     border-radius: 20px;
     box-shadow: 10px 10px 40px rgb(1, 62, 245);
 }
 
-.three-image{
+.three-image {
     height: 350px;
     width: 400px;
 }
-.last{
+
+.last {
     border-radius: 25px;
 }
-.three-next{
+
+.three-next {
     width: 97%;
     box-shadow: 10px 10px 40px gray;
     padding: 5px;
     margin: 25px 25px;
 }
 
-#foot{
+.lasth {
+    text-align: center;
+}
+
+.ddd {
+    margin-bottom: -1px;
+}
+
+.sss {
+    padding-bottom: 35px;
+}
+
+.login {
+    text-align: center;
+    width: 100%;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-size: 100% 100%;
+    padding-bottom: 30px;
+}
+
+#foot {
     background-color: gray;
     color: rgb(0, 0, 0);
     text-align: center;
 }
-#food{
+
+#food {
     color: green;
     font-size: 50px;
-    
+
 }
-#zone{
+
+#zone {
     color: rgb(97, 19, 45);
     font-size: 50px;
 }
-.lasth{
+
+.lasth {
     height: 10%;
     width: 35%;
 }
