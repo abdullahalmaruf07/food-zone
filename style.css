@@ -1,14 +1,14 @@
 .blue{
     color: blue;
 }
-h1{
-    font-size: 40px;
-}
 .top-name{
     text-align: center;
     background-image: linear-gradient(rgb(53, 135, 230), cyan);
     color: rgb(190, 27, 27);
+    margin-top: 0;
+    margin-bottom: 0%;
 }
+
 body{
     font-family: 'Bebas Neue', cursive;
     font-family: 'Noto Serif', serif;
@@ -39,6 +39,11 @@ body{
 }
 .middle{
     background-image: url(images/shapes/Frame\ 57.jpg);
+    margin-bottom: 0%;
+}
+.top-benner{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    margin-bottom: 0;
 }
 .recipie{
     text-align: center;
@@ -74,10 +79,12 @@ body{
 }
 #food{
     color: green;
+    font-size: 50px;
     
 }
 #zone{
     color: rgb(97, 19, 45);
+    font-size: 50px;
 }
 .lasth{
     height: 10%;
